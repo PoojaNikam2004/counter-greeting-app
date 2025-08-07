@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/%3CPoojaNikam2004%3E.github.com/%3Ccounter-greeting-app%3E/static/css/main.5a54b774.css",
+    "main.js": "/%3CPoojaNikam2004%3E.github.com/%3Ccounter-greeting-app%3E/static/js/main.825da5e8.js",
+    "static/js/453.38198ae7.chunk.js": "/%3CPoojaNikam2004%3E.github.com/%3Ccounter-greeting-app%3E/static/js/453.38198ae7.chunk.js",
+    "index.html": "/%3CPoojaNikam2004%3E.github.com/%3Ccounter-greeting-app%3E/index.html",
+    "main.5a54b774.css.map": "/%3CPoojaNikam2004%3E.github.com/%3Ccounter-greeting-app%3E/static/css/main.5a54b774.css.map",
+    "main.825da5e8.js.map": "/%3CPoojaNikam2004%3E.github.com/%3Ccounter-greeting-app%3E/static/js/main.825da5e8.js.map",
+    "453.38198ae7.chunk.js.map": "/%3CPoojaNikam2004%3E.github.com/%3Ccounter-greeting-app%3E/static/js/453.38198ae7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a54b774.css",
+    "static/js/main.825da5e8.js"
+  ]
+}
