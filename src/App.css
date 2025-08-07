@@ -1,0 +1,60 @@
+body{
+background-color:#042743;
+color: white;
+padding: 50px;
+margin: 0px;
+text-align: center;
+align-items: center;
+justify-content: center;
+justify-items: center;
+
+}
+div{
+  text-align: center;
+  padding: 50px;
+}
+input{
+  padding: 10px;
+  border-radius: 10px;
+  border-color: red;
+  border-style: solid;
+  margin: 10px;
+  width: 20vw;
+  height: 5vh;
+  background-color: wheat;
+
+}
+button{
+  padding: 10px;
+  background-color:wheat;
+  margin: 10px;
+ border-radius: 10px;
+  border-color:red;
+  border-style: solid;
+  
+  
+}
+button:hover{
+  background-color: seagreen;
+  box-shadow: inset 0 0 5px black;
+  }
+  button:hover{
+    transition: transform 0.02s;
+    transform: scale(1.1);
+    
+
+  }
+.App{
+  text-align: center;
+  padding: 1px;
+  margin: 1px;
+  background-color:white;
+  color:red;
+  width: 30vw;
+  height: 75vh;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  border-style: groove;
+
+}
